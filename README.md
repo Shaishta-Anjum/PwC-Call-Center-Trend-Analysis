@@ -28,7 +28,7 @@ This project involves the development of a comprehensive Call Center Trends Dash
 These Key Performance Indicators (KPIs) provide valuable insights into various aspects of call center performance, customer satisfaction, and operational efficiency, helping stakeholders make informed decisions and drive continuous improvement initiatives.
 
 ## Dashboard
-![]()
+![](https://github.com/Shaishta-Anjum/PwC-Call-Center-Trend-Analysis/blob/main/Call%20Center%20Dashboard.png)
 
 ## Insights
 
